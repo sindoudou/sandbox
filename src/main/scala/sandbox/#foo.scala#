@@ -1,0 +1,7 @@
+package sandbox
+
+import fs2._
+
+object TestApp extends App {
+  println("Hello!")
+}
